@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adarshsingh1083
 - 👀 I’m interested in Coding (HTML, CSS)
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on instagram(ft.adarshsingh)
+- 💞️ I’m looking to
 - 📫 How to reach me mrideal000@gmail.com
 
 <!---
